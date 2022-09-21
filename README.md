@@ -34,11 +34,23 @@ I have used the data of the popular month of September for the year of 2019 and 
 ![Screenshot (81)](https://user-images.githubusercontent.com/89398792/191568933-238fea48-d3b4-4169-a94e-f87bdd3e0729.png)
 
 
-This is the introduction Dashboard 
+This Dashboard contains the comprehensive analysis of the Citi bike data.
+Key Insights drawn from the data are:
+ - We have derived the KPIs for the analysis.
+ - The participation of male riders is greater than that of female riders.
+ - The majority of the users are Subscribers rather than the usual customers.
+ - Most of the riders are of 25-30 age groups.
+ - And visualize the map of the most popular starting and ending journey stations.
+
 
 
 ### The Dashboard-2
 ![Screenshot (84)](https://user-images.githubusercontent.com/89398792/191568965-e6e4e6d0-0864-4c10-be65-2281f47e2a2b.png)
+
+The Yearwise analysis makes an in-depth analysis of the change in ridership over the year.
+ - The average trip duration and number of trips have increased over the year.
+ - The peak hours for 2019 are 8 a.m. and 6 p.m. which is might be office hours. And the peak   hours for 2020 are 6p.m only so we can pitch our business during these peak hours.
+ - We have seen the top 5 and bottom 5 journey stations for both years so we can increase the business in the respective top stations.
 
 
 ### The Dashboard-3
