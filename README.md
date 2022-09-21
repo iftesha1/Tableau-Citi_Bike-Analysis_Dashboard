@@ -14,7 +14,7 @@ https://public.tableau.com/app/profile/iftesha.najnin/viz/newcitibike/Overview
 ## About The Data:
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program’s utilization. Through the team’s efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
-I have used the data of S
+I have used the data of the popular month of September for the year of 2019 and 2020.
 ## Major Asks of the Project:
 
 ## Analysis Report made in Tableau
