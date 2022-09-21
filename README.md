@@ -50,11 +50,17 @@ Key Insights drawn from the data are:
 The Yearwise analysis makes an in-depth analysis of the change in ridership over the year.
  - The average trip duration and number of trips have increased over the year.
  - The peak hours for 2019 are 8 a.m. and 6 p.m. which is might be office hours. And the peak   hours for 2020 are 6p.m only so we can pitch our business during these peak hours.
- - We have seen the top 5 and bottom 5 journey stations for both years so we can increase the business in the respective top stations.
+ - We have seen the top 5 and bottom 5 journey stations for both years so we can increase the business in the respective top stations.( N.B- We can change the number of Top N and Bottom N by using the parameter Option)
 
 
 ### The Dashboard-3
 ![Screenshot (83)](https://user-images.githubusercontent.com/89398792/191568998-d0de3455-a840-4f91-9bc6-bea171cd2cfc.png)
+
+The Gender-wise analysis helps to make a detailed analysis based on gender.
+ - The number of female participants is much lesser than the number of male participants.
+ - The number of subscribers has decreased over the year.
+ - The participation of females has increased slightly over the year so we should promote the business toward gender equality.
+
 
 
 ### The Dashboard-4
