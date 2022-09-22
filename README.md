@@ -67,5 +67,8 @@ The Gender-wise analysis helps to make a detailed analysis based on gender.
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/89398792/191572427-bee1cdaf-284d-4862-808d-6e95df2574e9.png)
 
-
+ - The Age-wise analysis illustrates that the Citi bike is much more popular for the age interval of 25-30. Business is working well for the age group of the 35s and 50s.
+ - In every age group, the participation of female riders is less compared to male riders.
+ - After the in-depth analysis of the age, we have seen that the number of trips is lowest for the age group of 90 but the average trip duration is highest for them.
+So we can escalate our business for the aged riders also as they take rides for a longer period of time.
 
